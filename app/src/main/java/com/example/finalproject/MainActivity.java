@@ -22,7 +22,9 @@ public class MainActivity extends AppCompatActivity {
 
         //This creates a transition to load Covid Activity
         Intent covidActivity = new Intent(this, MainActivity.class);
-        
+        goToCovidActivity.setOnClickListener(click -> {
+            startActivity(covidActivity);
+        });
 
 
     }

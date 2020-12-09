@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Final Project</string>
+    <string name="countryName">Country Name: </string>
+    <string name="fromDate">From date: </string>
+    <string name="toDate">To date: </string>
+    <string name="search">Search</string>
+    <string name="db_success">Added to DB</string>
+    <string name="db_failure">Failed to add to DB</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 </resources>
