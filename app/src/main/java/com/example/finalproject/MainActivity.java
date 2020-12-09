@@ -20,14 +20,10 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        //This creates a transition to load CovidQuery
-        final Intent covidActivity = new Intent(this, MainActivity.class);
+        //This creates a transition to load Covid Activity
+        Intent covidActivity = new Intent(this, MainActivity.class);
+        
 
-        //When you click the search button, start the next activity
-        covidActivity.setOnClickListener( click ->
-        {
-            startActivity(covidActivity);
-        });
 
     }
 }
