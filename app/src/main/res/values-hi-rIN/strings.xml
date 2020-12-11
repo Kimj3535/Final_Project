@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">अंतिम परियोजना</string>
+    <string name="audioDatabaseApi">ऑडियो डेटाबेस एपीआई / नाम</string>
+    <string name="Instruction" translatable="false">इनपुट नाम और \"खोज\" दबाएं</string>
+    <string name="search">खोज</string>
+    <string name="empty_field_toast">इनपुट कलाकार का नाम</string>
+    <string name="error">त्रुटि</string>
+    <string name="cant_find_artist">कलाकार नहीं मिल रहा</string>
+    <string name="no_network">कोई इंटरनेट कनेक्शन नहीं</string>
+    <string name="help">मदद</string>
+    <string name="favorite">क्या आप पसंदीदा सूची में डेटा जोड़ना चाहते हैं?</string>
+    <string name="hint">यहा लिखो</string>
+    <string name="save">पसंदीदा लिस्ट मे डालें</string>
+    <string name="clear">स्पष्ट</string>
+    <string name="undo">स्वास्थ्य लाभ</string>
+    <string name="hide">छिपाना</string>
+    <string name="searchHeader">खोज परिणाम</string>
+    <string name="introduction">यह ऐप Algonquin College द्वारा विकसित किया गया है। आप ऑडियो डेटाबेस, व्यंजनों, कोविद -19 और टिकट जानकारी खोज सकते हैं।</string>
+    <string name="version">संस्करण: 1.0</string>
+    <string name="home">होम पेज पर वापस जाएं</string>
+    <string name="homeheader">App में आपका स्वागत है</string>
+    <string name="login">मुख्य पृष्ठ पर वापस जाएं</string>
+    <string name="favorite_help">मदद</string>
+    <string name="save_as_favorite">पसंदीदा के रूप में सहेजें</string>
+    <string name="ticketNo">नहीं</string>
+    <string name="open">खुला हुआ</string>
+    <string name="close">बंद करे</string>
+    <string name="add_to_fav">पसंदीदा में जोड़े</string>
+    <string name="input_name">इनपुट नाम</string>
+    <string name="help_tad">मदद</string>
+    <string name="tad_nav_open">खुला हुआ</string>
+    <string name="tad_nav_close">बंद करे</string>
+    <string name="tad_delete">हटाएं</string>
+    <string name="arrange_favorite">पसंदीदा व्यवस्थित करें:rites:</string>
+    <string name="songs">गीत:</string>
+
+</resources>

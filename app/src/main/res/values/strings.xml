@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Final Project</string>
     <string name="audioDatabaseApi">The Audio Database api/name</string>
-    <string name="Instruction" translatable="false">Input name and press \"Search\"</string>
+    <string name="Instruction">Input name and press \"Search\"</string>
     <string name="search">Search</string>
     <string name="empty_field_toast">Input artist name</string>
     <string name="error">Error</string>
